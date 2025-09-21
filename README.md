@@ -1,2 +1,2 @@
 # slides20
-large slides version 
+Large version with 20+ slides 
